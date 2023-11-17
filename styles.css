@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 function functionName(){
-	alert(argument.callee.name);
+	alert(arguments.callee.name);
 }
 
 functionName();
