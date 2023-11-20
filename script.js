@@ -4,3 +4,8 @@ function functionName(){
 }
 
 functionName(); 
+
+{
+    "testRepo": "print-function-name-solution",
+    "pathToFile": "cypress/integration/tests/test.spec.js"
+}
